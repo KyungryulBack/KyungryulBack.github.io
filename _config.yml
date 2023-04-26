@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: kyungryul Back
+name: Kyungryul Back
 title: AI engineer
 email: rudfuf0822@korea.ac.kr
 website: https://github.com/KR-0822
@@ -15,13 +15,13 @@ website: https://github.com/KR-0822
 darkmode: true
 
 # Social links
-#twitter_username: facespics
+# twitter_username: facespics
 github_username:  KR-0822
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: rudfuf_0822
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -30,10 +30,10 @@ instagram_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,22 +48,22 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello! I am an undergraduate Student at Korea University. I love working with other people as a team and have done several projects and activities. Currently, I am focused on a NLP project of the course COSE461, Persona dialog generation [TBD]. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> , <mark>Transformer based models</mark> , <mark>Team projects</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: These are some AI, Data science related projects I've done Since 2022.
+        link: https://github.com/KR-0822
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  KR/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/KR-0822
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)

@@ -48,9 +48,13 @@ instagram_username: rudfuf_0822
 # about_title: About Me
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am an undergraduate Student at Korea University. I love working with other people as a team and have done several projects and activities. Currently, I am focused on a NLP project of the course COSE461, Persona dialog generation [TBD]. 
+  Hello there! I'm 경렬, an undergraduate Student at Korea University. 
+  I have been fortunate to have some great opportunities to work on various projects and activities, collaborating with individuals from diverse backgrounds. 
+  Currently, I am focusing on a NLP project of the course COSE461, Persona dialog generation [TBD]. 
+  I am extremely passionate about exploring the cutting-edge fields of NLP and AI, I am eager to further my education and experience in these exciting areas.
+  
+  I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark>
 
-  I am most skilled in: <mark>Python</mark> , <mark>Transformer based models</mark> , <mark>Team projects</mark>
 
 content:
   - title: Projects # Title for the section

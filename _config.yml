@@ -1,5 +1,5 @@
 # Site
-#repository: sproogen/resume-theme
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -82,9 +82,10 @@ content:
         
           As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
         
-        description: | # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
+        description: | # 
+              Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
         
-        title:
+        
         sub_title: Creative Challenger Program, CCP.
         quote: >
           This was a 

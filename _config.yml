@@ -50,10 +50,12 @@ about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello there! I'm 경렬, an undergraduate Student at Korea University. 
   I have been fortunate to have some great opportunities to work on various projects and activities, collaborating with individuals from diverse backgrounds. 
-  Currently, I am focusing on a NLP project of the course COSE461, Persona dialog generation [TBD]. 
+  
+  Currently, I am focusing on a NLP project of the course COSE461, Persona dialog generation[TBD] with three of my teamates. 
+  
   I am extremely passionate about exploring the cutting-edge fields of NLP and AI, I am eager to further my education and experience in these exciting areas.
   
-  I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark>
+  I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Playing sports and games</mark>
 
 
 content:
@@ -61,7 +63,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: These are some AI, Data science related projects I've done Since 2022.
+        title: These are some NLP, AI related projects I've done Since 2022.
         link: https://github.com/KR-0822
         # link_text: Project Website
         additional_links:
@@ -71,11 +73,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: Data Campus @Korea Univ. (데이터청년캠퍼스 고려대과)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
+        description: | # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:

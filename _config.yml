@@ -110,24 +110,28 @@ content:
     content:
       - layout: left
         title: Korea University
-        caption: 2022 - 2023
-        sub_title: Electrical Engineering
+        caption: 2022 - Present
+        sub_title: Electrical Engineering, Interdisciplinary Major in Artificial Intelligence
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My Interdisciplinary Major is Artificial Intelligence. I took a course ARTIFICIAL INTELLIGENCE, Ethics of Artificial Intelligence
+, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, INFORMATION THEORY AND INFERENCE LEARNING. 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Also I'm a committe member of four clubs, *HandS*(Electrical Engineering Club), *DevKor*(Software developing Club), *Quick*(Quantum studying club), *Deluxe*(Gaming club)
+          
       - layout: left
         title: Dongguk University
         caption: 2018 - 2021
         sub_title: Industrial Systems Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Dongguk I found my talent in team projects as well as social activies. I received Academic Excellence scholarship in 2019 at Dongguk (rank: 1/74)
+          Also in 2019, I was a member of a Student Council, *한걸음* working as a *Director of Sports* managing the University's sports event and clubs.
+          
+          I really liked my past Major, Industrial Engineering, but I desired to study in a more large group, as well as learning some advanced engineering knowledge so I transferred to Korea University in 2022.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text

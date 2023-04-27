@@ -79,7 +79,7 @@ content:
         description: | # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
         
       - layout: top-middle
-        title: These are some NLP, AI related projects I've done Since 2022.
+       # title: These are some NLP, AI related projects I've done Since 2022.
         link: https://github.com/KR-0822
         # link_text: Project Website
         additional_links:

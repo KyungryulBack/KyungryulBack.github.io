@@ -73,10 +73,9 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: Here is my github page. 
-        #quote: >
-        # This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
-        description: | # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
+        sub_title:# Here is my github page. 
+        quote: 
+        description: 
         
       - layout: top-middle
         title: #
@@ -91,11 +90,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         sub_title: Data Campus @Korea Univ. (데이터청년캠퍼스 고려대과정)
         quote: >
-          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
+          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. \n
         
           As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
         
-        description: Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
+        description: # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
 
         
         

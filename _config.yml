@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kyungryul Back
-title: AI engineer
+title: AI Engineer
 email: rudfuf0822@korea.ac.kr
 website: https://github.com/KR-0822
 
@@ -113,7 +113,7 @@ content:
         quote: >
           In this project, I tried tuning the LSTM model. I tried changing both the hyperparameter and the hidden layer of the Conv-LSTM model. 
         
-          The intersting thing was by rule of thumb, I learned that batch normalization didn't really work well in the LSTM model and found the Hinton's LayerNormalization and tried using 
+          The intersting thing was by rule of thumb, I learned that batch normalization didn't really work well in the LSTM model and found the Hinton's LayerNormalization and tried chaning the baseline model with it. 
         
         description: 
         
@@ -145,7 +145,7 @@ content:
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-          After transfering to Korea.Univ and studying new subjects was challenging, though I tried my best to fit into the school well. 
+          After transfering to Korea.Univ, studying Electrical Engineering and AI was challenging, though I enjoyed I tried my best to fit into the school well. 
 
           I received a dean's list in 2022 Spring in Korea Univ.
           
@@ -162,22 +162,24 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           During my time at Dongguk I found my talent in project leading as well as social activies. 
-          
-          I received Academic Excellence scholarship in 2019 Fall at Dongguk (rank: 1/74), GPA 4.23/4.5 , Major 4.4
-          
+                    
           2019, I was a member of a Student Council, *총학생회 한걸음* working as a *Director of Sports* managing the University's sports events and realted clubs.
           
-          Industrial Engineering was attractive, but I desired to study in a more large group, as well as learning some advanced engineering knowledge so I transferred to Korea University in 2022.
+          I received Academic Excellence scholarship in 2019 Fall at Dongguk (rank: 1/66), with total GPA 4.23/4.5 , Major 4.38/4.5
+
+          Industrial Engineering was attractive, but I desired to study in a more large group, as well as learning some advanced engineering knowledge. So I transferred to Korea University 2022.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Playing Soccer
+      - Watching sports games (EPL, E-sports, KBO etc..)
       - Gaming
-      - Knitting
+      
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+       I played TFT in the Cyber Korea-Yonsei Varisty match!
+      ![Trees](/images/CyberKY.jpg "TFT")
 
 # Footer
 footer_show_references: true

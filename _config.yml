@@ -90,10 +90,10 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         sub_title: Data Campus @Korea Univ. (데이터청년캠퍼스 고려대과정)
         quote: >
-          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
-        >
+          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E.
+          
           As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
-        >
+          
           We decided to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
         description: 
 
@@ -111,7 +111,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           In this project, I tried tuning the LSTM model. I tried changing both the hyperparameter and the hidden layer of the Conv-LSTM model. 
-        >
+
           The intersting thing was by rule of thumb, I learned that batch normalization didn't really work well in the LSTM model and found the Hinton's LayerNormalization and tried using it. 
         
         description: 

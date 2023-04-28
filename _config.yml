@@ -172,14 +172,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in AI, NLP other acedemic area, some of my other interests and hobbies are:
       - Playing Soccer
       - Watching sports games (EPL, E-sports, KBO etc..)
       - Gaming
       
 
        
-      ![Trees](/images/CyberKY.jpg "TFT")
+      ![Trees](/images/CyberKY1.jpg "TFT")
       I played TFT in the Cyber Korea-Yonsei Varisty match!
 
 # Footer

@@ -91,8 +91,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         sub_title: 
         quote: >
-          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
-        description: | # Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
+          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
+        
+          As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
+        
+        description: Our goal in this project was to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
 
         
         

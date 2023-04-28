@@ -83,13 +83,13 @@ content:
         link: https://github.com/KR-0822/DataCampusKorea8
         # link_text: Project Website
         additional_links:
-          - title:  KR/modern-resume-theme
+          - title: # KR/modern-resume-theme
             icon: fab fa-github
             url: https://github.com/KR-0822/DataCampusKorea8
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: 
+        sub_title: KR/modern-resume-theme
         quote: >
           This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
         

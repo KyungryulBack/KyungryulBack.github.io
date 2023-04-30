@@ -50,11 +50,11 @@ about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
   I have been fortunate to have some great opportunities to work on various projects and activities, collaborating with individuals from diverse backgrounds. 
+    
+  I am extremely passionate about exploring the cutting-edge fields of AI, generation model and NLP. I am eager to further my education and experience in these exciting areas.
   
-  Currently, I am focusing on a NLP project of the course COSE461, Persona dialog generation[TBD] hoping to make a great chatbot with three of my teamates. 
-  
-  I am extremely passionate about exploring the cutting-edge fields of NLP and AI, I am eager to further my education and experience in these exciting areas.
-  
+  Currently, I am focusing on a NLP project of the course COSE461, Persona chatbot[TBD] using the dialog generation BOB model and HFRL, hoping to make a great chatbot with my teamates. 
+
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 
 
@@ -116,6 +116,23 @@ content:
           The intersting thing was by rule of thumb, I learned that batch normalization didn't really work well in the LSTM model and found the Hinton's LayerNormalization and tried chaning the baseline model with it. 
         
         description: 
+      
+      - layout: top-middle
+        title: #
+        link: https://github.com/KR-0822/
+        # link_text: Project Website
+        additional_links:
+          - title: # KR/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/KR-0822/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: TBD [TBD] (Korea.Univ COSE 461)
+        quote: >
+          In this project, 
+
+        description:
         
         
   - title: Experience # Title for the section
@@ -128,9 +145,9 @@ content:
         sub_title: Undergraduate Intern
         caption: SEP.2022 - Present
         quote: >
-            Working as an Undergraduate Intern in AIM lab ~~~~~~~~~~~
+            Working as an Undergraduate Intern in AIM lab was turly meaningful. Thanks to my Advisor, Prof. Joongheon Kim I learned about working as a researcher and engineer.   
         description: | # this will include new lines to allow paragraphs
-            At AIM Lab, I studied about the Quantum Machine learning, studying the 
+            At AIM Lab, I studied about the Quantum Machine learning, studying the monograph “An introduction to quantum machine learning for engineers” by Osvaldo Simeone. I made some quantum circuit from scratch by using the torch.einsum. Also I joined a project with [Solvit System], researching about the [Optimal Positioning Algorithms for Wide-Area Relaying Networks]. Moreover, I presented [Reinforcement algorithms and simulations using Unity platform] at the KICS workshop. As opportunities to present in front of a large audience, in a official acedemic place are relatively rare for undergraduates, this experience was valuable.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -178,9 +195,10 @@ content:
       - Gaming
       
 
+      ![Trees](/images/CyberKY.jpg "TFT")
        
-      ![Trees](/images/CyberKY1.jpg "TFT")
       I played TFT in the Cyber Korea-Yonsei Varisty match!
+
 
 # Footer
 footer_show_references: true

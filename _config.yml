@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
   I have been fortunate to have some great opportunities to work on various projects and activities, collaborating with individuals from diverse backgrounds. 
     
-  I am extremely passionate about exploring the cutting-edge fields of AI, generation model and NLP. I am eager to further my education and experience in these exciting areas.
+  I am extremely passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
   
-  Currently, I am focusing on a NLP project of the course COSE461, Persona chatbot[TBD] using the dialog generation BOB model and HFRL, hoping to make a great chatbot with my teamates. 
+  Currently, I am focusing on a NLP project of the course COSE461, Persona chatbot[TBD] using the dialog generation BOB model and RLHF, hoping to make a great chatbot with my teamates. 
 
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 
@@ -90,9 +90,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         sub_title: Data Campus @Korea Univ. (데이터청년캠퍼스 고려대과정)
         quote: >
-          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. \n
+          This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
         
-          As a result of working on this project, I developed a keen interests in [NLP] and [Generative models].
+          As a result of working on this project, I developed a keen interests in *NLP* and *Generative models*.
           
           We decided to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
         
@@ -143,9 +143,10 @@ content:
         link: sites.google.com/view/aimlab-kuee/home?authuser=0
         link_text: AI and Mobility (AIM) Lab, Korea Univ
         sub_title: Undergraduate Intern
-        caption: SEP.2022 - Present
+        caption: 2022 - Present
         quote: >
-            Working as an Undergraduate Intern in AIM lab was turly meaningful. Thanks to my Advisor, Prof. Joongheon Kim I learned about working as a researcher and engineer.   
+            Working as an Undergraduate Intern at the AIM Lab was truly meaningful. Under the guidance of my advisor, Prof. Joongheon Kim, I learned an invaluable insights about how to become a responsible and great researcher.
+
         description: | # this will include new lines to allow paragraphs
             At AIM Lab, I studied about the Quantum Machine learning, studying the monograph 
             “An introduction to quantum machine learning for engineers” by Osvaldo Simeone.

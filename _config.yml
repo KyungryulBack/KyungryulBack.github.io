@@ -147,7 +147,16 @@ content:
         quote: >
             Working as an Undergraduate Intern in AIM lab was turly meaningful. Thanks to my Advisor, Prof. Joongheon Kim I learned about working as a researcher and engineer.   
         description: | # this will include new lines to allow paragraphs
-            At AIM Lab, I studied about the Quantum Machine learning, studying the monograph “An introduction to quantum machine learning for engineers” by Osvaldo Simeone. I made some quantum circuit from scratch by using the torch.einsum. Also I joined a project with [Solvit System], researching about the [Optimal Positioning Algorithms for Wide-Area Relaying Networks]. Moreover, I presented [Reinforcement algorithms and simulations using Unity platform] at the KICS workshop. As opportunities to present in front of a large audience, in a official acedemic place are relatively rare for undergraduates, this experience was valuable.
+            At AIM Lab, I studied about the Quantum Machine learning, studying the monograph 
+            “An introduction to quantum machine learning for engineers” by Osvaldo Simeone.
+            I participated in weekly seminars as a penalist and presentor, discussing the contents about this monograph. Furthermore, to gain a practical experience in
+            translating research papers into a code, I made some quantum circuits from scratch by python code. 
+            Also I joined a project with *Solvit System*, researching about the 
+            *Optimal Positioning Algorithms for Wide-Area Relaying Networks*. 
+            Moreover, I presented *Reinforcement algorithms and simulations using Unity platform* 
+            at the KICS workshop. As opportunities to present in front of a large audience, 
+            in a official acedemic place are relatively rare for undergraduates, 
+            this experience was valuable.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -168,7 +177,7 @@ content:
           
           Some courses I took related to AI & NLP: Artificial Intelligence, Ethics of Artificial Intelligence, Machine Learning, Natural Language Processing, Information Theroy and Inference Learning, Probability and Random Process, Introduction to Linear Algebra, Data Structure and Algorithm
           
-          Also I'm a committe member of four clubs, *HandS*(Electrical Engineering Club), *DevKor*(Software developing Club), *Quick*(Quantum studying club), *Deluxe*(Gaming club)
+          Also I'm a committe member of four clubs, *HandS* (Electrical Engineering Club), *DevKor* (Software developing Club), *Quick* (Quantum studying club), *Deluxe* (Gaming club)
 
           
       - layout: left
@@ -195,7 +204,7 @@ content:
       - Gaming
       
 
-      ![Trees](/images/CyberKY.jpg "TFT")
+      ![Trees](/images/CyberKY1.jpg "TFT")
        
       I played TFT in the Cyber Korea-Yonsei Varisty match!
 

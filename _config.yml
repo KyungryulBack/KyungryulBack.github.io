@@ -48,6 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am extremely passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
   
   Currently, I am focusing on Reinforcement Learning Human Feedback (RLHF), a NLP project of the course COSE461, MBTI-Consistent-Dialog-Generation using the dialog generation BOB model and RLHF, hoping to make a great chatbot with my teamates. My research interest is Large Language Models (LLM), chatbot and AGI.
+  
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 
 
@@ -171,7 +172,7 @@ content:
 
           I received a dean's list in 2022 Spring in Korea Univ.
           
-          Some courses I took related to AI & NLP: Artificial Intelligence, Ethics of Artificial Intelligence, Machine Learning, Natural Language Processing, Information Theroy and Inference Learning, Probability and Random Process, Introduction to Linear Algebra, Data Structure and Algorithm
+          Courses I took related to AI & NLP: Artificial Intelligence, Ethics of Artificial Intelligence, Machine Learning, Natural Language Processing, Information Theroy and Inference Learning, Probability and Random Process, Introduction to Linear Algebra, Data Structure and Algorithm
           
           Also I'm a committe member of four clubs, *HandS* (Electrical Engineering Club), *DevKor* (Software developing Club), *Quick* (Quantum studying club), *Deluxe* (Gaming club)
 
@@ -187,9 +188,10 @@ content:
                     
           2019, I was a member of a Student Council, *총학생회 한걸음* working as a *Director of Sports* managing the University's sports events and realted clubs.
           
-          I received Academic Excellence scholarship in 2019 Fall at Dongguk (rank: 1/66), with total GPA 4.23/4.5 , Major 4.38/4.5
+          I received Academic Excellence Scholarship in 2019 Fall at Dongguk (rank: 1/66), with 
+          
+          Total GPA 4.23/4.5 , Major 4.38/4.5 
 
-          Industrial Engineering was attractive, but I desired to study in a more large group, as well as learning some advanced engineering knowledge. So I transferred to Korea University 2022.
 
   - title: A Little More About Me
     layout: text
@@ -202,7 +204,8 @@ content:
 
       ![Trees](/images/CyberKY1.jpg "TFT")
        
-      I played TFT in the Cyber Korea-Yonsei Varisty match!
+      I played TFT in the Cyber Korea-Yonsei Varisty match! 
+    icon: fa-face-grin-squint
 
 
 # Footer

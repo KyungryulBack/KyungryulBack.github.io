@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
   I am extremely passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
   
-  Currently, I am focusing on Reinforcement Learning Human Feedback (RLHF), a NLP project of the course COSE461, MBTI-Consistent-Dialog-Generation using the dialog generation BOB model and RLHF, hoping to make a great chatbot with my teamates. My research interest is Large Language Models (LLM), chatbot and AGI.
+  Currently, I am focusing on Reinforcement Learning Human Feedback (RLHF), a NLP project of the course COSE461, MBTI-Consistent-Dialog-Generation using the dialog generation BOB model and RLHF, hoping to make a great Korean speaking Chatbot with my teamates. My research interest is Large Language Models (LLM), chatbot and AGI.
   
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 
@@ -186,7 +186,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Dongguk I found my talent in project leading as well as social activies. 
                     
-          2019, I was a member of a Student Council, *총학생회 한걸음* working as a *Director of Sports* managing the University's sports events and realted clubs.
+          2019, I was a member of a Student Council, *총학생회 한걸음* working as a *Director of Sports* managing the University's sports events and related clubs.
           
           I received Academic Excellence Scholarship in 2019 Fall at Dongguk (rank: 1/66), with 
           
@@ -198,13 +198,15 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI, NLP other acedemic area, some of my other interests and hobbies are:
       - Playing Soccer
-      - Watching sports games (EPL, E-sports, KBO etc..)
+      - Reading Classic Novels and Social Science Books
+      - Watching commercial films
+      - Watching sports games (EPL, LCK, KBO etc..)
       - Gaming
       
 
       ![Trees](/images/CyberKY1.jpg "TFT")
        
-      I played TFT in the Cyber Korea-Yonsei Varisty match! 
+      This is me playing TFT in the Cyber Korea-Yonsei Varisity match 2022! 
     icon: fas fa-smile
 
 

@@ -113,12 +113,12 @@ content:
       
       - layout: top-middle
         title: #
-        link: https://github.com/KR-0822/
+        link: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation_Public
         # link_text: Project Website
         additional_links:
           - title: # KR/modern-resume-theme
             icon: fab fa-github
-            url: https://github.com/KR-0822/
+            url: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation_Public
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -205,7 +205,7 @@ content:
       ![Trees](/images/CyberKY1.jpg "TFT")
        
       I played TFT in the Cyber Korea-Yonsei Varisty match! 
-    icon: fa-face-grin-squint
+    icon: fas fa-smile
 
 
 # Footer

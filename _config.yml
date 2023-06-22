@@ -119,7 +119,7 @@ content:
       
       - layout: top-middle
         title: #
-        link: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation_Public
+        link: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation
         # link_text: Project Website
         additional_links:
           - title: # KR/modern-resume-theme

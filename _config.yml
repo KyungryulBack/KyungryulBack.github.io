@@ -45,13 +45,15 @@ instagram_username: rudfuf_0822
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
-  I am extremely passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
+  I am passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
   
-  I have previously completed courses : Artificial Intelligence, Machine Learning, and the Ethics of Artificial Intelligence @Korea Univ. I'm enrolled in a Natural Language Processing course this semester.
+  I have previously completed courses : Artificial Intelligence, Machine Learning, and the Ethics of Artificial Intelligence, Natural Language Processing at Korea Univ
   
-  I am currently focusing on Reinforcement Learning Human Feedback (RLHF), a NLP project of the course COSE461, MBTI-Consistent-Dialog-Generation using the dialog generation BOB model and RLHF, hoping to make a great Korean speaking Chatbot with my teamates. 
+  I am currently focusing on further studies related to my previous NLP project of the course COSE461, MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation 
   
-  My research interest is Large Language Models (LLM), Natural Language Processing and AGI.
+  inspired by LIMA: Less Is More for Alignment. 
+  
+  My research interest is about making human-like agent AGI, Large Language Models (LLM), Natural Language Processing.
   
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 
@@ -90,7 +92,7 @@ content:
         quote: >
           This was the first group project I had worked on related to AI, aimed to imitating the Dall-E. 
         
-          As a result of working on this project, I developed a keen interests in *NLP* and *Generative models*.
+          As a result of working on this project, I developed a keen interests in NLP and Generative models.
           
           We decided to create a text-to-image multimodal using a CLIP model. Since this was our first AI project, we studied intensively every day and tried to catch up the model.
         
@@ -122,16 +124,18 @@ content:
         additional_links:
           - title: # KR/modern-resume-theme
             icon: fab fa-github
-            url: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation_Public
+            url: https://github.com/kchyun/MBTI-Consistent-Dialog-Generation
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: MBTI-Consistent-Dialog-Generation [Team Acorn] (Korea.Univ COSE 461)
+        sub_title: MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation [Team 3] (Korea.Univ COSE 461)
         quote: >
           In this project, we are planning to make a MBTI-Consistent-Dialog-Generation model, simply a chatbot. 
 
-          We made a MBTI related dataset ourselves, planning to train it by RLHF methods. Also, we are hoping to get a dataset from SimSimi(심심이) dataset.
+          We made a MBTI related dataset ourselves, planning to train it by RLHF methods and finetuned both the KoGPT2 and k-BOB model. 
 
+          We achieved a Perfect Score on this project. (1st among 50 teams)
+          
         description:
         
         
@@ -143,7 +147,7 @@ content:
         link: sites.google.com/view/aimlab-kuee/home?authuser=0
         link_text: AI and Mobility (AIM) Lab, Korea Univ
         sub_title: Undergraduate Intern
-        caption: 2022 - Present
+        caption: 2022 - 2023
         quote: >
             Working as an Undergraduate Intern at the AIM Lab was truly meaningful. Under the guidance of my advisor, Prof. Joongheon Kim, I learned an invaluable insights about how to become a responsible and great researcher.
 
@@ -210,7 +214,7 @@ content:
 
       ![Trees](/images/CyberKY1.jpg "TFT")
        
-      This is me playing TFT in the Cyber Korea-Yonsei Varisity match 2022! 
+      Korea-Yonsei Varisity match 2022
     icon: fas fa-smile
 
 

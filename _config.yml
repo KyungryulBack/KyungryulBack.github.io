@@ -128,7 +128,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation [Team 3] (Korea.Univ COSE 461)
+        sub_title: MBTI-Based Dialogue Generation- Training Language Models for Personality-Aware Conversation [Team 3] (Korea.Univ COSE 461)
         quote: >
           In this project, we are planning to make a MBTI-Consistent-Dialog-Generation model, simply a chatbot. 
 

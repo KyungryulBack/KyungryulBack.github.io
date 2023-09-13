@@ -3,7 +3,7 @@ version: 2
 
 # Personal info
 name: Kyungryul Back
-title: AI Engineer
+title: AI Engineer & Researcher
 email: rudfuf0822@korea.ac.kr
 website: https://github.com/KR-0822
 
@@ -45,7 +45,7 @@ instagram_username: rudfuf_0822
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
-  I am passionate about exploring the cutting-edge fields of AI, <mark>Generative model</mark> and <mark>NLP</mark>. I am eager to further my education and experience in these exciting areas.
+  I am passionate about exploring the cutting-edge fields of AI, <mark>LLM</mark> , <mark>Multimodal</mark> <mark>Generative Model</mark>. I am eager to further my education and experience in these exciting areas.
   
   I have previously completed courses : Artificial Intelligence, Machine Learning, Deep Learning and the Ethics of Artificial Intelligence, Natural Language Processing at Korea Univ
   

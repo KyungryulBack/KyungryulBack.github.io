@@ -45,13 +45,13 @@ instagram_username: rudfuf_0822
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
-  I am passionate about exploring the cutting-edge fields of AI, generative model and NLP. I am eager to further my education and experience in these exciting areas.
+  I am passionate about exploring the cutting-edge fields of AI, <mark>Generative model</mark> and <mark>NLP</mark>. I am eager to further my education and experience in these exciting areas.
   
-  I have previously completed courses : Artificial Intelligence, Machine Learning, and the Ethics of Artificial Intelligence, Natural Language Processing at Korea Univ
+  I have previously completed courses : Artificial Intelligence, Machine Learning, Deep Learning and the Ethics of Artificial Intelligence, Natural Language Processing at Korea Univ
   
-  I am currently focusing on further studies related to my previous NLP project of the course COSE461, MBTI-Based Dialogue Generation. 
+  I am currently focusing on further studies related to my previous NLP project of the course COSE461, MBTI-Based Dialogue Generation using Human Feedback RL. 
   
-  My research interest is about making human-like agent <mark>AGI</mark>, <mark>HCI</mark>, Large Language Models <mark>LLM</mark>, <mark>GNN</mark>.
+  My research interest is about making human-like agent <mark>AGI</mark>, <mark>LLM</mark>, <mark>HumanFeedback</mark>, <mark>Generative models</mark>.
   
   I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
 

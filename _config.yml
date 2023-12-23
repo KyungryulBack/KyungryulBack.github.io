@@ -147,7 +147,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: Text-to-Image Using Human Feedback: Integrating Reinforcement Learning and Human Preference Estimators (Korea.Univ Graduation thesis)
+        sub_title: Text-to-Image Using Human Feedback: Integrating Reinforcement Learning and Human Preference (Graduation thesis)
         quote: >
           This is a research about state of the art RL trained Text-to-Image Models (i.e DDPO, DPOK). 
 

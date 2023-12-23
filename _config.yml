@@ -138,23 +138,21 @@ content:
         
       - layout: top-middle
         title: #
-        link: https://github.com/KR-0822/MBTI-Consistent-Dialog-Generation
+        link: https://github.com/KR-0822/Diffusion_RL
         # link_text: Project Website
         additional_links:
           - title: # KR/modern-resume-theme
             icon: fab fa-github
-            url: https://github.com/kchyun/MBTI-Consistent-Dialog-Generation
+            url: https://github.com/KR-0822/Diffusion_RL
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        sub_title: MBTI-Based Dialogue Generation- Training Language Models for Personality-Aware Conversation [Team 3] (Korea.Univ COSE 461)
+        sub_title: Text-to-Image Using Human Feedback- Integrating Reinforcement Learning and Human Preference (Korea.Univ Graduation thesis)
         quote: >
-          In this project, we are planning to make a MBTI-Consistent-Dialog-Generation model, simply a chatbot. 
+          This is a research about state of the art RL trained Text-to-Image Models (i.e DDPO, DPOK). 
 
-          We made a MBTI related dataset ourselves, planning to train it by RLHF methods and finetuned both the KoGPT2 and k-BOB model. 
-
-          We achieved a Perfect Score on this project. (1st among 50 teams)
-          
+          I improved the previous RL based Stable Diffusion model(DDPO by Kevin et al) with new reward model, HPS v2.
+           
         description:
 
 

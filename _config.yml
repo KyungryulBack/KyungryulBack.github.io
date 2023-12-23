@@ -45,15 +45,15 @@ instagram_username: rudfuf_0822
 about_profile_image: images/profile_kr.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello. I'm 경렬, an undergraduate Student at Korea University. 
-  I am passionate about exploring the cutting-edge fields of AI, <mark>LLM</mark> , <mark>Multimodal</mark> <mark>Generative Model</mark>. I am eager to further my education and experience in these exciting areas.
+  I am passionate about exploring the cutting-edge fields of AI, <mark>LLM</mark> , <mark>Multimodal</mark> , <mark>Generative Model</mark>. I am eager to further my education and experience in these exciting areas.
   
-  I have previously completed courses : Artificial Intelligence, Machine Learning, Deep Learning and the Ethics of Artificial Intelligence, Natural Language Processing at Korea Univ
+  I have previously completed courses : Artificial Intelligence, Machine Learning, Deep Learning and the Ethics of Artificial Intelligence, Natural Language Processing, Deep Learning at Korea Univ
   
-  I am currently focusing on further studies related to my previous NLP project of the course COSE461, MBTI-Based Dialogue Generation using Human Feedback RL. 
+  I am currently focusing on further studies related to my previous Text-to-image project of my Graduation Paper, Text-to-Image Diffusion Model with RL. 
   
   My research interest is about making human-like agent <mark>AGI</mark>, <mark>LLM</mark>, <mark>HumanFeedback</mark>, <mark>Generative models</mark>.
   
-  I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> , <mark>Sports and Games</mark>
+  I am most skilled in: <mark>Python</mark> , <mark>Huggingface</mark> , <mark>Team projects</mark> 
 
 
 content:
@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: These are some NLP, AI related projects I've done Since 2022.
+        title: These are some AI, Deep Learning related projects I've done Since 2022.
         link: https://github.com/KR-0822
         # link_text: Project Website
         additional_links:
@@ -135,6 +135,25 @@ content:
           We achieved a Perfect Score on this project. (1st among 50 teams)
           
         description:
+
+              - layout: top-middle
+        title: #
+        link: https://github.com/KR-0822/Diffusion_RL
+        # link_text: Project Website
+        additional_links:
+          - title: # KR/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/KR-0822/Diffusion_RL
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: Enhancing Text-to-Image Model Alignment Using Human Feedback: Integrating Reinforcement Learning and Human Preference Estimators (Korea.Univ Graduation thesis)
+        quote: >
+          This is a research about state of the art RL trained Text-to-Image Models (i.e DDPO, DPOK). 
+
+          I improved the previous RL based Stable Diffusion model(DDPO by Kevin et al) with new reward model, HPS v2.
+          
+        description:
         
         
   - title: Experience # Title for the section
@@ -166,7 +185,7 @@ content:
     content:
       - layout: left
         title: Korea University
-        caption: 2022 - Present
+        caption: 2022 - 2024
         sub_title: 
             Electrical Engineering, 
         
@@ -178,7 +197,7 @@ content:
 
           I received a dean's list in 2022 Spring in Korea Univ.
           
-          Courses I took related to AI & NLP: Artificial Intelligence, Ethics of Artificial Intelligence, Machine Learning, Natural Language Processing, Information Theroy and Inference Learning, Probability and Random Process, Introduction to Linear Algebra, Data Structure and Algorithm
+          Courses I took related to AI & DL: Artificial Intelligence, Ethics of Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, Data Science for EE
           
           Also I'm a committe member of four clubs, *HandS* (Electrical Engineering Club), *DevKor* (Software developing Club), *Quick* (Quantum studying club), *Deluxe* (Gaming club)
 
